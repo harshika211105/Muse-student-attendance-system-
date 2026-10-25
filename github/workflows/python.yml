@@ -1,9 +1,7 @@
+
 name: Student Attendance CI
 
-on:
-  push:
-  pull_request:
-  workflow_dispatch:
+on: [push, pull_request, workflow_dispatch]
 
 jobs:
   test:
@@ -18,6 +16,5 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: Run unit tests
+      - name: Run attendance tests
         run: python -m unittest discover -s tests -v
-        

@@ -1,17 +1,37 @@
-# Student Management System
 
-A simple Student Management System built as part of a DevOps assignment, demonstrating CI/CD with GitHub Actions and Agile planning with Jira.
+# Student Attendance Management System
+
+A simple Python application for managing student attendance.
 
 ## Features
-- Add a student
-- View all students
-- Delete a student
 
-## Tech Stack
+- Add students
+- View registered students
+- Mark students Present or Absent
+- View attendance records
+- Automated unit testing using GitHub Actions
+
+## Technology Stack
+
 - Python 3.11
-- GitHub Actions (CI/CD)
-- Jira (Agile planning)
+- GitHub Actions (CI)
+- GitHub for version control
+- Jira for Agile task planning (if used)
 
 ## How to Run
-```bash
-python app.py
+
+Run the following command in a Python terminal:
+
+    python app.py
+
+## How to Test
+
+Run:
+
+    python -m unittest discover -s tests -v
+
+## Project Purpose
+
+This project demonstrates basic Python programming,
+unit testing, version control, and continuous integration.
+

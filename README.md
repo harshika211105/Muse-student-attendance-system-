@@ -35,3 +35,4 @@ Run:
 This project demonstrates basic Python programming,
 unit testing, version control, and continuous integration.
 
+CI workflow configured for attendance tests.

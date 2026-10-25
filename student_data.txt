@@ -1,0 +1,6 @@
+StudentID,Name,Status
+101,Aarav Sharma,Present
+102,Diya Patel,Present
+103,Rohan Verma,Absent
+104,Ananya Singh,Present
+105,Kabir Mehta,Absent

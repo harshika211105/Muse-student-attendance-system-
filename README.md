@@ -1,6 +1,10 @@
 
 # Student Attendance Management System
 
+# Student Attendance Management System
+
+[![Python CI](https://github.com/harshik211105/Muse-student-attendance-system-/actions/workflows/python.yml/badge.svg)](https://github.com/harshik211105/Muse-student-attendance-system-/actions)
+
 A simple Python application for managing student attendance.
 
 ## Features
